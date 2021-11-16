@@ -15,9 +15,9 @@
 
 <hr>
 
-<p>Name  :   Azret      </p>
+<p>Name  :   Aziret      </p>
 <hr>
-<p>Surname:   Shakirov     </p>
+<p>Surname:   Shakirovv     </p>
 <hr>
 <p>Address    :   Bugu-Ene 63            </p>
 <hr>
